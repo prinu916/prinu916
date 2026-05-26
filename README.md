@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
 
-  <a href="https://www.linkedin.com/in/priyanshu-singh">
+  <a href="https://www.linkedin.com/in/priyanshu-singh-0b4587349/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
 
