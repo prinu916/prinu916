@@ -127,9 +127,6 @@ AI-powered application delivering intelligent responses and solving real-world q
 ## 🏠 RentNest
 Property rental web application with responsive UI and dynamic room listings.
 
-## 🍕 Prinu-Pizza Website
-Modern responsive pizza website with engaging UI and interactive ordering features.
-
 ## 🧠 VeritasNet-AI
 AI-based verification system for structured and reliable data analysis.
 
