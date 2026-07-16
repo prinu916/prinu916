@@ -162,9 +162,24 @@ Safety-focused navigation web app with real-time awareness features.
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/prinu916/prinu916/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/prinu916/prinu916/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/prinu916/prinu916/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
 # ⚡ Fun Fact
 
-💡 “Code. Learn. Build. Repeat.” 🚀
+💡 **"Code. Learn. Build. Repeat."** 🚀
 
 ---
 
